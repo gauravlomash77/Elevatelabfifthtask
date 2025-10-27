@@ -1,0 +1,4 @@
+# Ignore Kubernetes and Minikube binaries
+kubectl
+minikube-linux-amd64
+

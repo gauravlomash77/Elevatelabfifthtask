@@ -9,7 +9,7 @@ Deploy and manage applications in Kubernetes using **Minikube** and **kubectl** 
 - **Minikube**
 - **kubectl**
 - **Kubernetes**
-- **Docker** (pre-installed)
+- **Docker** 
 
 ---
 
